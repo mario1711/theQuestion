@@ -1,0 +1,51 @@
+*{
+	margin: 10px;
+	padding: 10px;
+
+}
+
+body{
+	background-color: #DA9DD1;
+}
+
+.contenedor{
+	width: 100%;
+	height: 100%;
+	max-width: 2000px;
+	background-color: #E37AD3;
+	margin:0 auto;
+
+}
+
+.div_texto__h3{
+	font-size: 10vw;
+	margin:0 auto;
+	background-color: white;
+	text-align: center;
+}
+
+.div_imagen__img{
+	border: 4px  dashed  black;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.div_input{
+	background-color: white;
+	float: left;
+}
+
+#btnSi{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 32PX;
+	padding-right: 32px;
+	border-radius: 30%;
+	font-size: 7em;
+}
+#btnNo{
+	padding: 10px;
+	border-radius: 30%;
+	font-size: 7em;
+}
